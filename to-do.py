@@ -1,28 +1,3 @@
-# #creataing a simple To-Do List application 
-# #task name 
-# #priority 
-# #deadline 
-# #status
-
-
-
-# print("        TO - Do List         ")
-# print("1. Add Task")
-# print("2. Show Task")
-# print("3. Mark Task as Done")
-# print("4. Exist")
-# choice = input("Enter your Choice : ")
-# if choice == "1":
-#     num = int(input("How many task you want to add: "))
-#     for i in range(num) :
-#         input("Enter the task: ")
-#         print("Task added!")
-# elif choice =="2":
-#     print()
-        
-
-# Simple To-Do List Application in Python
-
 def display_menu():
     print("\nTo-Do List Menu:")
     print("1. View To-Do List")
